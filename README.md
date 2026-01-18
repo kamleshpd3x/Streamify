@@ -98,5 +98,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 <div align="center">
-  Made with ❤️ by Prasant
+  Made with ❤️ by Kamalesh
 </div>
